@@ -1,2 +1,2 @@
-# AED3-EXERCICIO1
-Exercicio  da ultima aula de AED3, onde o mesmo tem como objetiv os alunos criarem um  programa  em c++ e depois aprender a usar os repertorios do GITHUB.
+# REPOSIÓRIO AED3
+Repositório criado para fins acadêicos, para postagem dos exercíios ministrado pelo professor Mailson, na Universidade do Estado de Minas Geraias, unidade Passos.
